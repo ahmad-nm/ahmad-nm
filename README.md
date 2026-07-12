@@ -31,7 +31,7 @@ I enjoy building scalable applications with clean architectures, modern UI, and 
 - MySQL
 - SQLite (Room)
 
-## Deployment
+### Deployment
 - Namecheap Shared Hosting
 - cPanel
 - Domain & Subdomain Management
