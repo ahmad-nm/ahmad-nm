@@ -63,7 +63,7 @@ Features include role-based functionality for students, tutors, and administrato
 
 🔗 Repository: https://github.com/ahmad-nm/darisni-platform
 
-🔗 Website: YOUR_DARISNI_URL
+🔗 Website: https://darisni.net
 
 ---
 
