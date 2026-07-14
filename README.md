@@ -26,6 +26,7 @@ I enjoy building scalable applications with clean architectures, modern UI, and 
 
 * Laravel
 * React
+* Inertia.js
 * REST APIs
 * HTML
 * CSS
@@ -54,9 +55,33 @@ I enjoy building scalable applications with clean architectures, modern UI, and 
 
 ## 🚀 Featured Projects
 
+### 🎓 Darisni Platform — Educational Marketplace
+
+A full-stack educational platform built with Laravel, Inertia.js, and React that connects students with tutors. The platform supports course browsing, tutor profiles, reviews, cart and invoice-based purchasing through WhatsApp, and a complete admin dashboard.
+
+Features include role-based functionality for students, tutors, and administrators.
+
+🔗 Repository: https://github.com/ahmad-nm/darisni-platform
+
+🔗 Website: YOUR_DARISNI_URL
+
+---
+
+### 🏛️ VENT Architecture Portfolio
+
+A full-stack portfolio platform developed for an architecture team to showcase services and projects through an interactive web experience.
+
+The website includes a React frontend, Laravel backend, admin dashboard, project management, and interactive 3D experiences built using React Three Fiber and React Drei.
+
+🔗 Repository: https://github.com/ahmad-nm/vent-architecture
+
+---
+
 ### 🌱 Seed2See — Full-Stack E-Commerce Platform
 
-A collaborative full-stack e-commerce platform developed for an environmental organization to showcase and sell sustainable products. The platform includes a React frontend, Laravel backend, authentication, product management, and an admin dashboard.
+A collaborative full-stack e-commerce platform developed for an environmental organization to showcase and sell sustainable products.
+
+The platform includes a React frontend, Laravel backend, authentication, product management, category management, shopping cart, invoice generation, WhatsApp ordering, and an admin dashboard.
 
 🔗 Repository: https://github.com/ahmad-nm/seed2see
 
@@ -74,7 +99,7 @@ Features include offline-first storage using Room Database, call log management,
 
 ---
 
-More projects will be added soon, including additional full-stack web applications and mobile projects.
+More projects will be added as I continue building full-stack web and mobile applications.
 
 ---
 
